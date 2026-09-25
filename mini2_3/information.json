@@ -1,0 +1,6 @@
+{
+"PORT":"8080",
+"Mongo_name":"mydatabase",
+"Mongo_uri":"localhost is the key",
+"Myown":"the new work"
+}
