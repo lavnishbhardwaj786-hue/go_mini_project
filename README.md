@@ -1,4 +1,4 @@
 # go_mini_project
 
-topic of go which are implemented while learning 
+topic of go ratelimitter ,concurrency and errorhandelling
 
